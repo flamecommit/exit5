@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/article/cate/1", (function(a){return {data:[{article:{slug:"1",title:"블로그 글 테스트 11",author:"신용준",toc:[],body:{type:"root",children:[{type:"element",tag:"p",props:{},children:[{type:"text",value:"테스트입니다"}]}]},dir:"\u002Fcate",path:"\u002Fcate\u002F1",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:[]}}("2021-09-06T07:17:53.378Z")));
