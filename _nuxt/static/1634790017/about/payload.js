@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about", {data:[{}],fetch:{"data-v-111286a6:0":{categories:[{name:"Blog",depth2:[{name:"java"},{name:"react"},{name:"vue"}]}]}},mutations:[]});
