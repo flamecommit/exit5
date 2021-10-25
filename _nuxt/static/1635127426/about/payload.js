@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/about", {data:[{}],fetch:{"data-v-ce922d6e:0":{categories:[],directory_list:["java","react","vue"]}},mutations:[]});
