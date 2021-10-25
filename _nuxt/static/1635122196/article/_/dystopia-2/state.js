@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1635122196",layout:"default",error:a,state:{app_load:false,params:"_",id:"dystopia-2"},serverRendered:true,routePath:"\u002Farticle\u002F_\u002Fdystopia-2",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"b24324b0"}}}}(null));
