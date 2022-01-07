@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/history", {data:[{}],fetch:{"data-v-4a631aec:0":{directory_list:["javascript","react","vue"]}},mutations:[]});
