@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/list/life", (function(a){return {data:[{}],fetch:{"0":{category_list:[{name:a,path:a,depth:0,child:[{name:"place",path:"life_place",depth:1,child:[]}]}]}},mutations:[]}}("life")));
