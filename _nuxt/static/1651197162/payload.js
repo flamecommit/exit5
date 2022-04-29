@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a,b,c,d){return {data:[{}],fetch:{"0":{category_list:[{name:a,path:a,depth:b,child:[{name:"place",path:"life_place",depth:c,child:[]}]},{name:d,path:d,depth:b,child:[{name:"vue",path:"tech_vue",depth:c,child:[]}]}]}},mutations:[]}}("life",0,1,"tech")));
