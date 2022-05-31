@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", (function(a){return {data:[{}],fetch:{"0":{category_list:[{name:a,path:a,depth:0,child:[{name:"kim",path:"music_kim",depth:1,child:[]}]}]}},mutations:[]}}("music")));
