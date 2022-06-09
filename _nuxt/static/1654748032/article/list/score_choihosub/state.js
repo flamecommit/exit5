@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1654748032",layout:"default",error:a,state:{is_menu:false,app_loaded:b,blog_depth:["score","choihosub"]},serverRendered:b,routePath:"\u002Farticle\u002Flist\u002Fscore_choihosub",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"d1e19436"}}}}(null,true));
