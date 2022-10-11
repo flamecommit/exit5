@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://exit5.co.kr/sitemap/sitemap-index.xml
+Host: https://exit5.co.kr
