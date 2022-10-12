@@ -5,6 +5,6 @@
 <url> <loc>https://exit5.co.kr/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://exit5.co.kr/series/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://exit5.co.kr/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://exit5.co.kr/demo/responsive-web-image/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://exit5.co.kr/demo/lodash-study/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://exit5.co.kr/demo/responsive-web-image/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
