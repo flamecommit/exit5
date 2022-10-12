@@ -6,7 +6,6 @@ const SEO = ({ title, description, url }) => {
   return (
     <Helmet>
       <title>{title}</title>
-      <meta name="viewport" content="width=768" />
       <meta name="author" content={author} />
       <meta name="description" content={description} />
 
