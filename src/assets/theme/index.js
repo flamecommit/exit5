@@ -9,7 +9,7 @@ const GRAY2 = "#e9ecef"
 const GRAY1 = "#f1f3f5"
 const GRAY0 = "#f8f9fa"
 
-const GREEN1 = '#71ac42'
+const KEY_COLOR = '#862b10'
 
 export const light = {
   name: "light",
@@ -46,49 +46,8 @@ export const light = {
     textFieldBorder: GRAY4,
     textFieldActivatedBorder: GRAY5,
     tableBackground: GRAY1,
-    title: GREEN1,
-    link: GREEN1,
-    accentColor1: GREEN1,
-  },
-}
-
-export const dark = {
-  name: "dark",
-  colors: {
-    bodyBackground: GRAY9,
-    text: GRAY0,
-    secondaryText: GRAY4,
-    tertiaryText: GRAY5,
-    mutedText: GRAY6,
-    hoveredLinkText: GRAY9,
-    border: GRAY5,
-    activatedBorder: GRAY3,
-    background: GRAY8,
-    icon: GRAY5,
-    divider: GRAY8,
-    headerBackground: "rgba(33, 37, 41, 0.85)",
-    headerShadow: "rgba(255, 255, 255, 0.08)",
-    inlineCodeBackground: GRAY7,
-    inlineCodeBackgroundDarker: GRAY8,
-    tagBackground: GRAY8,
-    selectedTagBackground: GRAY2,
-    hoveredTagBackground: GRAY7,
-    hoveredSelectedTagBackground: GRAY1,
-    nextPostButtonBackground: "rgba(255, 255, 255, 0.05)",
-    hoveredNextPostButtonBackground: "rgba(255, 255, 255, 0.08)",
-    seriesBackground: GRAY8,
-    tagText: GRAY2,
-    selectedTagText: GRAY9,
-    spinner: GRAY1,
-    scrollTrack: GRAY8,
-    scrollHandle: GRAY6,
-    blockQuoteBorder: GRAY7,
-    blockQuoteBackground: GRAY8,
-    textFieldBorder: GRAY7,
-    textFieldActivatedBorder: GRAY6,
-    tableBackground: "#292e33",
-    title: GREEN1,
-    link: GREEN1,
-    accentColor1: GREEN1,
+    title: KEY_COLOR,
+    link: KEY_COLOR,
+    accentColor1: KEY_COLOR,
   },
 }
